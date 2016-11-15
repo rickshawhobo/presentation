@@ -375,6 +375,7 @@ export default class Presentation extends React.Component {
           <Heading size={2}  textColor="primary" textFont="primary">
               Thanks
       </Heading>
+          https://github.com/rickshawhobo/presentation
       </Slide>
 
 
